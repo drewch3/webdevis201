@@ -1,0 +1,42 @@
+/* stylesproject.css */
+
+body {
+    font-family: 'Arial', sans-serif;
+    color: #333;
+    background-color: #90c4d7; /* Nice green-blue background color for the body */
+}
+
+.diy-page {
+    background-color: #aed6e4; /* Lighter green-blue background color for the diy-page */
+    padding: 20px;
+    margin: 20px;
+}
+
+.custom-background {
+    background-color: #ffc107;
+    padding: 10px;
+}
+
+/* Add more styles as needed */
+
+/* Professional Pages Navigation */
+.professional-pages {
+    position: fixed;
+    top: 20px;
+    right: 20px;
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.professional-pages a {
+    color: #fff;
+    text-decoration: none;
+    margin-right: 10px;
+}
+
+/* Center h1 */
+h1 {
+    text-align: center;
+}
